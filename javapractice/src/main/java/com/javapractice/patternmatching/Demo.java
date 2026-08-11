@@ -8,6 +8,7 @@ public class Demo {
         //printStar();
        //printNumbers();
         getcount();
+        getPattern();
     }
     public static void normalPattern(){
         System.out.println("Welcome to java Practice World...");
@@ -73,6 +74,16 @@ public class Demo {
                 }
                 System.out.print(count+" ");
                 count++;
+            }
+            System.out.println();
+        }
+    }
+    public static void getPattern(){
+        int n=6;
+        for(int i=1;i<=n;i++){
+            for(int j=1;j<=i;j++){
+                System.out.print("*");
+
             }
             System.out.println();
         }
