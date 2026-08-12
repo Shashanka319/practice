@@ -84,3 +84,62 @@
 2026-08-12 20:33:38,200 INFO c.j.p.m.r.RunnableWithLamda [Thread-2] Thread[#30,Thread-2,5,main]Ending the Process
 2026-08-12 20:33:38,201 INFO c.j.p.m.r.RunnableWithLamda [Thread-0] Thread[#28,Thread-0,5,main]Ending the Process
 2026-08-12 20:33:38,201 INFO c.j.p.m.r.RunnableWithLamda [Thread-1] Thread[#29,Thread-1,5,main]Ending the Process
+2026-08-12 21:03:51,257 INFO c.j.p.m.r.t.Threads [main] Execute the Thred Process
+2026-08-12 21:03:54,264 INFO c.j.p.m.r.t.Threads [main] Thred Process End
+2026-08-12 21:04:39,816 INFO c.j.p.m.r.t.Threads [main] Execute the Thred Process
+2026-08-12 21:04:42,820 INFO c.j.p.m.r.t.Threads [main] Thred Process End
+2026-08-12 21:04:42,822 INFO c.j.p.m.r.t.Threads [main] Execute the Thred Process
+2026-08-12 21:04:45,824 INFO c.j.p.m.r.t.Threads [main] Thred Process End
+2026-08-12 21:04:45,824 INFO c.j.p.m.r.t.Threads [main] Execute the Thred Process
+2026-08-12 21:04:48,826 INFO c.j.p.m.r.t.Threads [main] Thred Process End
+2026-08-12 21:05:02,595 INFO c.j.p.m.r.t.Threads [main] Execute the Thred Process
+2026-08-12 21:05:05,600 INFO c.j.p.m.r.t.Threads [main] Thred Process End
+2026-08-12 21:05:05,602 INFO c.j.p.m.r.t.Threads [main] Execute the Thred Process
+2026-08-12 21:05:08,605 INFO c.j.p.m.r.t.Threads [main] Thred Process End
+2026-08-12 21:05:08,606 INFO c.j.p.m.r.t.Threads [main] Execute the Thred Process
+2026-08-12 21:05:11,609 INFO c.j.p.m.r.t.Threads [main] Thred Process End
+2026-08-12 21:05:40,771 INFO c.j.p.m.r.t.Threads [main] Execute the Thred Process
+2026-08-12 21:05:43,777 INFO c.j.p.m.r.t.Threads [main] Thred Process End
+2026-08-12 21:05:43,778 INFO c.j.p.m.r.t.Threads [main] Execute the Thred Process
+2026-08-12 21:05:43,779 INFO c.j.p.m.r.t.Threads [Thread-0] Execute the Thred Process
+2026-08-12 21:05:46,781 INFO c.j.p.m.r.t.Threads [main] Thred Process End
+2026-08-12 21:05:46,781 INFO c.j.p.m.r.t.Threads [Thread-0] Thred Process End
+2026-08-12 21:05:46,782 INFO c.j.p.m.r.t.Threads [main] Execute the Thred Process
+2026-08-12 21:05:46,782 INFO c.j.p.m.r.t.Threads [Thread-1] Execute the Thred Process
+2026-08-12 21:05:49,782 INFO c.j.p.m.r.t.Threads [main] Thred Process End
+2026-08-12 21:05:49,784 INFO c.j.p.m.r.t.Threads [Thread-1] Thred Process End
+2026-08-12 21:05:49,783 INFO c.j.p.m.r.t.Threads [Thread-2] Execute the Thred Process
+2026-08-12 21:05:52,789 INFO c.j.p.m.r.t.Threads [Thread-2] Thred Process End
+2026-08-12 21:06:04,626 INFO c.j.p.m.r.t.Threads [Thread-0] Execute the Thred Process
+2026-08-12 21:06:04,626 INFO c.j.p.m.r.t.Threads [Thread-1] Execute the Thred Process
+2026-08-12 21:06:04,626 INFO c.j.p.m.r.t.Threads [Thread-2] Execute the Thred Process
+2026-08-12 21:06:07,632 INFO c.j.p.m.r.t.Threads [Thread-0] Thred Process End
+2026-08-12 21:06:07,632 INFO c.j.p.m.r.t.Threads [Thread-2] Thred Process End
+2026-08-12 21:06:07,632 INFO c.j.p.m.r.t.Threads [Thread-1] Thred Process End
+2026-08-12 21:29:19,929 INFO c.j.p.m.s.m.MethodWithObj [Thread-1] Execute the Synchronization with Method level
+2026-08-12 21:29:19,929 INFO c.j.p.m.s.m.MethodWithObj [Thread-0] Execute the Synchronization with Method level
+2026-08-12 21:29:19,929 INFO c.j.p.m.s.m.MethodWithObj [Thread-2] Execute the Synchronization with Method level
+2026-08-12 21:29:22,941 INFO c.j.p.m.s.m.MethodWithObj [Thread-2] Finished the Synchronization with Method level
+2026-08-12 21:29:22,942 INFO c.j.p.m.s.m.MethodWithObj [Thread-1] Finished the Synchronization with Method level
+2026-08-12 21:29:22,942 INFO c.j.p.m.s.m.MethodWithObj [Thread-0] Finished the Synchronization with Method level
+2026-08-12 21:35:55,422 INFO c.j.p.m.s.m.MethodWithClass [Thread-0] Entering to process for synchronized lock with Method Level
+2026-08-12 21:35:56,430 INFO c.j.p.m.s.m.MethodWithClass [Thread-0] Exiting to process for synchronized lock with Method Level
+2026-08-12 21:35:56,431 INFO c.j.p.m.s.m.MethodWithClass [Thread-2] Entering to process for synchronized lock with Method Level
+2026-08-12 21:35:57,435 INFO c.j.p.m.s.m.MethodWithClass [Thread-2] Exiting to process for synchronized lock with Method Level
+2026-08-12 21:35:57,437 INFO c.j.p.m.s.m.MethodWithClass [Thread-1] Entering to process for synchronized lock with Method Level
+2026-08-12 21:35:58,441 INFO c.j.p.m.s.m.MethodWithClass [Thread-1] Exiting to process for synchronized lock with Method Level
+2026-08-12 21:42:54,716 INFO c.j.p.m.s.b.BlockWithClass [Thread-0] Execute the Synchro with Block level using Class Lock
+2026-08-12 21:42:54,721 INFO c.j.p.m.s.b.BlockWithClass [Thread-2] Execute the Synchro with Block level using Class Lock
+2026-08-12 21:42:54,722 INFO c.j.p.m.s.b.BlockWithClass [Thread-1] Execute the Synchro with Block level using Class Lock
+2026-08-12 21:43:30,848 INFO c.j.p.m.s.b.BlockWithClass [Thread-0] Execute the Synchro with Block level using Class Lock
+2026-08-12 21:43:35,854 INFO c.j.p.m.s.b.BlockWithClass [Thread-0] Finished the Synchro with Block level using Class Lock
+2026-08-12 21:43:35,854 INFO c.j.p.m.s.b.BlockWithClass [Thread-1] Execute the Synchro with Block level using Class Lock
+2026-08-12 21:43:40,856 INFO c.j.p.m.s.b.BlockWithClass [Thread-1] Finished the Synchro with Block level using Class Lock
+2026-08-12 21:43:40,857 INFO c.j.p.m.s.b.BlockWithClass [Thread-2] Execute the Synchro with Block level using Class Lock
+2026-08-12 21:43:45,859 INFO c.j.p.m.s.b.BlockWithClass [Thread-2] Finished the Synchro with Block level using Class Lock
+2026-08-12 21:46:16,538 INFO c.j.p.m.s.b.BlockWithObj [Thread-2] Starting Synchro with Block level using Obj Lock
+2026-08-12 21:46:16,538 INFO c.j.p.m.s.b.BlockWithObj [Thread-0] Starting Synchro with Block level using Obj Lock
+2026-08-12 21:46:16,538 INFO c.j.p.m.s.b.BlockWithObj [Thread-1] Starting Synchro with Block level using Obj Lock
+2026-08-12 21:46:26,545 INFO c.j.p.m.s.b.BlockWithObj [Thread-0] Finished the Synchro with Block level using Obj Lock
+2026-08-12 21:46:26,545 INFO c.j.p.m.s.b.BlockWithObj [Thread-2] Finished the Synchro with Block level using Obj Lock
+2026-08-12 21:46:26,546 INFO c.j.p.m.s.b.BlockWithObj [Thread-1] Finished the Synchro with Block level using Obj Lock
