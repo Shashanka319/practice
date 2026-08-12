@@ -1,4 +1,4 @@
-package com.javapractice.patternmatching.multithreding.runnable.thread;
+package com.javapractice.multithreding.thread;
 
 import lombok.extern.log4j.Log4j2;
 

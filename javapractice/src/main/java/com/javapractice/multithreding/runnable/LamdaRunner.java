@@ -1,4 +1,4 @@
-package com.javapractice.patternmatching.multithreding.runnable;
+package com.javapractice.multithreding.runnable;
 
 public class LamdaRunner {
     public static void main(String[] args) {

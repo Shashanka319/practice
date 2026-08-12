@@ -1,4 +1,4 @@
-package com.javapractice.patternmatching.multithreding.synchronization.blocklevel;
+package com.javapractice.multithreding.synchronization.blocklevel;
 
 public class ClsRunner {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.javapractice.patternmatching.multithreding.runnable.thread;
+package com.javapractice.multithreding.thread;
 
 public class ThreadRunner {
     public static void main(String[] args) {

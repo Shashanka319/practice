@@ -1,4 +1,4 @@
-package com.javapractice.patternmatching.multithreding.synchronization.blocklevel;
+package com.javapractice.multithreding.synchronization.blocklevel;
 
 import lombok.extern.log4j.Log4j2;
 

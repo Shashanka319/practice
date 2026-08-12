@@ -143,3 +143,15 @@
 2026-08-12 21:46:26,545 INFO c.j.p.m.s.b.BlockWithObj [Thread-0] Finished the Synchro with Block level using Obj Lock
 2026-08-12 21:46:26,545 INFO c.j.p.m.s.b.BlockWithObj [Thread-2] Finished the Synchro with Block level using Obj Lock
 2026-08-12 21:46:26,546 INFO c.j.p.m.s.b.BlockWithObj [Thread-1] Finished the Synchro with Block level using Obj Lock
+2026-08-12 23:40:33,176 INFO c.j.m.t.e.r.RunnableImpl [pool-2-thread-1] Starting to Execute Runnable Task using implement Runnable Interface 
+2026-08-12 23:40:38,182 INFO c.j.m.t.e.r.RunnableImpl [pool-2-thread-1] Terminate the Runnable Task using implement Runnable Interface 
+2026-08-12 23:41:26,509 INFO c.j.m.t.e.r.RunnableImpl [pool-2-thread-1] Starting to Execute Runnable Task using implement Runnable Interface 
+2026-08-12 23:41:31,515 INFO c.j.m.t.e.r.RunnableImpl [pool-2-thread-1] Terminate the Runnable Task using implement Runnable Interface 
+2026-08-12 23:45:21,485 INFO c.j.m.t.e.r.RunnableMain [main] Creating ExecutorService with a fixed thread pool...
+2026-08-12 23:45:21,490 INFO c.j.m.t.e.r.RunnableMain [main] Submitting tasks to the ExecutorService...
+2026-08-12 23:45:21,491 INFO c.j.m.t.e.r.RunnableMain [main] Shutdown initiated. Waiting for tasks to complete...
+2026-08-12 23:45:21,491 INFO c.j.m.t.e.r.RunnableImpl [pool-2-thread-1] Starting to Execute Runnable Task using implement Runnable Interface 
+2026-08-12 23:45:21,491 INFO c.j.m.t.e.r.RunnableImpl [pool-2-thread-2] Starting to Execute Runnable Task using implement Runnable Interface 
+2026-08-12 23:45:26,492 INFO c.j.m.t.e.r.RunnableImpl [pool-2-thread-2] Terminate the Runnable Task using implement Runnable Interface 
+2026-08-12 23:45:26,493 INFO c.j.m.t.e.r.RunnableImpl [pool-2-thread-1] Terminate the Runnable Task using implement Runnable Interface 
+2026-08-12 23:45:26,494 INFO c.j.m.t.e.r.RunnableMain [main] All tasks completed. Main thread exiting.
