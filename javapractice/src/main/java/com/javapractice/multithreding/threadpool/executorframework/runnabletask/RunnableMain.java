@@ -8,11 +8,11 @@ import java.util.concurrent.Executors;
 public class RunnableMain {
     public static void main(String[] args) {
         RunnableImpl ri=new RunnableImpl(1,"T-shirt",500);
-        //List<RunnableImpl> list = new ArrayList<RunnableImpl>();
-
+        List<RunnableImpl> list = new ArrayList<RunnableImpl>();
+        System.out.println(list.size());
         Executor executor = Executors.newFixedThreadPool(3);
         executor.execute(ri);
-        System.out.println("Execute:"+executor.toString());
+
 
 
 
