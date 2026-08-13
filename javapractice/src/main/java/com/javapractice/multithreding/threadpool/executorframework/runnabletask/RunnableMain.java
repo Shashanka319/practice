@@ -12,6 +12,9 @@ public class RunnableMain {
 
         Executor executor = Executors.newFixedThreadPool(3);
         executor.execute(ri);
+        System.out.println("Execute:"+executor.toString());
+
+
 
     }
 }
