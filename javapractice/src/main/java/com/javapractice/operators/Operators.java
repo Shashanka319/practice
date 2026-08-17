@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Operators {
     public static void main(String[] args) {
-        getPreDec();
+        getPostDec();
     }
     public static void getArithmetic(){
         Scanner sc = new Scanner(System.in);
@@ -54,7 +54,7 @@ public class Operators {
         int sub = dec-b;
         System.out.println("Sub After Decrement:"+sub);
     }
-    public static voif getPostIncre(){
+    public static void getPostIncre(){
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the First Number:");
         int a = sc.nextInt();
@@ -64,6 +64,18 @@ public class Operators {
         int incre =a++;
         System.out.println("Increment - "+incre);
         int sum = incre + b;
-        System.out.println("Sum after Increment:"+sum);
+        System.out.println("Sum Before Increment:"+sum);
+    }
+    public static void getPostDec(){
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter the First Number:");
+        int a = sc.nextInt();
+        System.out.print("Enter the Second Number:");
+        int b = sc.nextInt();
+
+        int dec = a--;
+        System.out.println("Decrement value - "+dec);
+        int sub = dec-b;
+        System.out.println("Sub Before Decrement:"+sub);
     }
 }
