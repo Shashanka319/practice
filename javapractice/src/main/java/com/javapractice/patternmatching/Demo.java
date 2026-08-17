@@ -2,11 +2,11 @@ package com.javapractice.patternmatching;
 
 public class Demo {
     public static void main(String[] args) {
-       //normalPattern();
-       //fullPattern();
-       //getNumbers();
-        //printStar();
-       //printNumbers();
+       normalPattern();
+       fullPattern();
+       getNumbers();
+        printStar();
+       printNumbers();
         getcount();
         getPattern();
     }
