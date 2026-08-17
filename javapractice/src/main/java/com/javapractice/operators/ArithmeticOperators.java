@@ -2,7 +2,7 @@ package com.javapractice.operators;
 
 import java.util.Scanner;
 
-public class Operators {
+public class ArithmeticOperators {
     public static void main(String[] args) {
         getPostDec();
     }
