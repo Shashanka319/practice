@@ -4,7 +4,8 @@ import java.util.Scanner;
 
 public class ArithmeticOperators {
     public static void main(String[] args) {
-        getPostDec();
+        //getPostDec();
+        getByteOperator();
     }
     public static void getArithmetic(){
         Scanner sc = new Scanner(System.in);
@@ -77,5 +78,15 @@ public class ArithmeticOperators {
         System.out.println("Decrement value - "+dec);
         int sub = dec-b;
         System.out.println("Sub Before Decrement:"+sub);
+    }
+    public static void getByteOperator(){
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter the First Number:");
+        byte a = sc.nextByte();
+        System.out.println("Enter the Second Number:");
+        byte b = sc.nextByte();
+
+       byte mul = (byte) (a*b);
+        System.out.println("Mul:"+mul);
     }
 }

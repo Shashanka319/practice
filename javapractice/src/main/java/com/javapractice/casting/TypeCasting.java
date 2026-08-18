@@ -4,7 +4,8 @@ public class TypeCasting {
     public static void main(String[] args) {
       //getImplicitly();
       //getExplicitly();
-      getPattern();
+      //getPattern();
+        getBoolean();
     }
    //implicitly
     public static void getImplicitly() {
@@ -35,6 +36,13 @@ public class TypeCasting {
             }
             System.out.println(" ");
         }
+
+    }
+    public static void getBoolean(){
+        int a = 23;
+        boolean b =(a!=0) ;
+        System.out.println(b);
+
     }
 
 }
